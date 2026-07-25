@@ -1,1 +1,1 @@
-![Dance Dragon](dance-dragon.gif)
+<img src="DanceDragonGIF.gif" width="300" alt="Dance Dragon" />

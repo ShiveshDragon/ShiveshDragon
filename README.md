@@ -63,7 +63,6 @@ A simulation-based research project integrating E91 entanglement-based Quantum K
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShiveshDragon&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=BD93F9&text_color=C9D1D9" />
 
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=ShiveshDragon&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=8BE9FD&currStreakLabel=8BE9FD" />
 
 <br/>
 
@@ -71,7 +70,6 @@ A simulation-based research project integrating E91 entanglement-based Quantum K
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShiveshDragon&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" />
 
 </div>
 

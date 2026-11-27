@@ -13,19 +13,6 @@
 
 </div>
 
-```text
-          ░░░░░░░░░░░░░░░░░
-        ░░  ┌───────────┐  ░░
-        ░   │  ⚛  0|1   │   ░
-        ░   │ QUANTUM OS│   ░
-        ░   └───────────┘   ░
-        ░░   [ H ]-[ X ]  ░░
-          ░░░░░░░░░░░░░░░
-
-       LOADING QUANTUM STATE...
-          |ψ⟩ = α|0⟩ + β|1⟩
-```
-
 ## `01 // WHO AM I?`
 
 Hey! I'm **Shivesh**, a Computer Science student fascinated by the intersection of computer science, mathematics and quantum computing.
@@ -96,35 +83,8 @@ A project focused on investigating how quantum-secured communication concepts ca
 
 </div>
 
-## `06 // CONTRIBUTION MATRIX`
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiveshDragon&bg_color=0D1117&color=8BE9FD&line=BD93F9&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-</div>
 
-## `07 // END TRANSMISSION`
 
-```text
-    ┌────────────────────────────────────┐
-    │                                    │
-    │   THE QUANTUM JOURNEY CONTINUES    │
-    │                                    │
-    │       |0⟩  ───────  |1⟩             │
-    │                                    │
-    │    THINK. EXPERIMENT. CONTRIBUTE.  │
-    │                                    │
-    │         SYSTEM: ONLINE             │
-    └────────────────────────────────────┘
-```
-
-<div align="center">
-
-### *"The universe isn't classical, and neither should our curiosity be."*
-
-<img src="https://komarev.com/ghpvc/?username=ShiveshDragon&style=for-the-badge&color=8A2BE2&label=PROFILE+VISITORS" />
-
-**Thanks for visiting my corner of the quantum universe! ⚛️**
-
-</div>

@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 ### `QUANTUM.EXE — INITIALIZING...`
 
@@ -10,9 +10,9 @@
 
 ## `01 // ABOUT ME`
 
-Hey there! I'm **Shivesh**, a Computer Science undergraduate at IIIT Kottayam, fascinated by quantum computing, quantum algorithms and the mathematics behind computation.
+Hey there! I'm **Shivesh**, a 3rd Year Computer Science undergraduate at IIIT Kottayam, fascinated by quantum computing, quantum algorithms and the mathematics behind it.
 
-I enjoy exploring how quantum information, algorithms and cryptography can shape the future of computing.
+I currently enjoy exploring how quantum information, algorithms and cryptography can shape the future of computing.
 
 - ⚛️ Exploring quantum algorithms and quantum information.
 - 🔬 Experimenting with quantum circuits and QKD simulations.

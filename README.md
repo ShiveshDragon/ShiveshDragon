@@ -60,17 +60,8 @@ A simulation-based research project integrating E91 entanglement-based Quantum K
 ## `04 // GITHUB STAT SHEET`
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShiveshDragon&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=BD93F9&text_color=C9D1D9" />
-
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiveshDragon&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8BE9FD&text_color=C9D1D9" />
-
-<br/>
-
-
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ShiveshDragon&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=BD93F9&text_color=C9D1D9" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiveshDragon&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8BE9FD&text_color=C9D1D9" />
 </div>
 
 

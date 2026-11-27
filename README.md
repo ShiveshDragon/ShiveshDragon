@@ -1,6 +1,4 @@
-  <div align="center">
-
-# ⚛️ SHIVESH DRAGON
+ <div align="center">
 
 ### `QUANTUM.EXE — INITIALIZING...`
 
@@ -12,7 +10,7 @@
 
 ## `01 // ABOUT ME`
 
-Hey! I'm **Shivesh**, a Computer Science undergraduate at IIIT Kottayam, interested in quantum computing, quantum algorithms and the mathematical foundations of computation.
+Hey there! I'm **Shivesh**, a Computer Science undergraduate at IIIT Kottayam, fascinated by quantum computing, quantum algorithms and the mathematics behind computation.
 
 I enjoy exploring how quantum information, algorithms and cryptography can shape the future of computing.
 
@@ -21,24 +19,13 @@ I enjoy exploring how quantum information, algorithms and cryptography can shape
 - 🧮 Interested in linear algebra, probability and mathematical foundations.
 - 🌌 Exploring quantum software and open-source contributions.
 
-## `02 // QUANTUM RESEARCH & PROJECTS`
+## `02 // QUANTUM PROJECTS`
 
-<details open>
-<summary><b>⚛️ Quantum-Secured Federated Learning for IoT Networks</b></summary>
+**⚛️ Quantum-Secured Federated Learning for IoT Networks**
 
-**Simulation-based research prototype**
+A simulation-based research project integrating E91 entanglement-based Quantum Key Distribution (QKD) with secure federated learning, exploring quantum-secured communication, cryptographic authentication and privacy-preserving distributed machine learning.
 
-`Python` `Qiskit` `Qiskit Aer` `E91 QKD` `AES-256-GCM`
-
-Exploring the integration of quantum-secured communication concepts with secure federated learning.
-
-<div align="center">
-
-[![Quantum Project](https://img.shields.io/badge/Quantum_Project-Explore-8A2BE2?style=for-the-badge&logo=github)](https://github.com/ShiveshDragon?tab=repositories)
-
-</div>
-
-</details>
+[![Explore Project](https://img.shields.io/badge/Explore_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
 
 ## `03 // QUANTUM TOOLKIT`
 
